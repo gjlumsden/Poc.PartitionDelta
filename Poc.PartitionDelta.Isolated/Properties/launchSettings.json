@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Poc.PartitionDelta.Isolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7138",
+      "launchBrowser": false
+    }
+  }
+}
